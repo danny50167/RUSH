@@ -1,0 +1,27 @@
+#img_logo {
+  width: min(15em, 80%);
+  /* width: 15em; */
+  margin-bottom: 2em;
+}
+
+#img_logo_t {
+  width: min(15em, 80%);
+}
+
+.btn_sign {
+  border: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(33, 175, 218, 1) 0%,
+    rgba(212, 245, 26, 1) 100%
+  );
+
+  color: white;
+  padding: 1em;
+  border-radius: 0.6em;
+  width: 15em;
+  font-size: 1.2em;
+  margin-top: 3em;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
